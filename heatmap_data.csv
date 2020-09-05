@@ -1,101 +1,101 @@
-group,variable,value
-A,v1,30
-A,v2,95
-A,v3,22
-A,v4,14
-A,v5,59
-A,v6,52
-A,v7,88
-A,v8,20
-A,v9,99
-A,v10,66
-B,v1,37
-B,v2,50
-B,v3,81
-B,v4,79
-B,v5,84
-B,v6,91
-B,v7,82
-B,v8,89
-B,v9,6
-B,v10,67
-C,v1,96
-C,v2,13
-C,v3,98
-C,v4,10
-C,v5,86
-C,v6,23
-C,v7,74
-C,v8,47
-C,v9,73
-C,v10,40
-D,v1,75
-D,v2,18
-D,v3,92
-D,v4,43
-D,v5,16
-D,v6,27
-D,v7,76
-D,v8,24
-D,v9,1
-D,v10,87
-E,v1,44
-E,v2,29
-E,v3,58
-E,v4,55
-E,v5,65
-E,v6,56
-E,v7,9
-E,v8,78
-E,v9,49
-E,v10,36
-F,v1,35
-F,v2,80
-F,v3,8
-F,v4,46
-F,v5,48
-F,v6,100
-F,v7,17
-F,v8,41
-F,v9,33
-F,v10,11
-G,v1,77
-G,v2,62
-G,v3,94
-G,v4,15
-G,v5,69
-G,v6,63
-G,v7,61
-G,v8,54
-G,v9,38
-G,v10,93
-H,v1,39
-H,v2,26
-H,v3,90
-H,v4,83
-H,v5,31
-H,v6,2
-H,v7,51
-H,v8,28
-H,v9,42
-H,v10,7
-I,v1,5
-I,v2,60
-I,v3,21
-I,v4,25
-I,v5,3
-I,v6,70
-I,v7,34
-I,v8,68
-I,v9,57
-I,v10,32
-J,v1,19
-J,v2,85
-J,v3,53
-J,v4,45
-J,v5,71
-J,v6,64
-J,v7,4
-J,v8,12
-J,v9,97
-J,v10,72
+nome,nota,sexo,idade,cor,lingua,escola,renda,prova,escolaridade
+Isabela Franco,621,M,21,Branco,Ingles,Particular,8914,amarela,Ensino superior incompleto
+Silas Melo,839,F,35,Preto,Ingles,Particular,8216,azul,Ensino medio incompleto
+Breno Carvalho,411,F,76,Preto,Ingles,Particular,4723,azul,Ensino medio completo
+Eduardo Franco,697,F,72,Branco,Ingles,Particular,6182,azul,Ensino fundamental incompleto
+Alessandro Carvalho,688,F,46,Pardo,Ingles,Particular,3244,branca,Ensino superior incompleto
+Vicente Batista,539,F,79,Amarelo,Ingles,Particular,3891,azul,Ensino fundamental completo
+Salvador Braga,832,M,29,Amarelo,Ingles,Particular,2843,amarela,Ensino superior incompleto
+Lucas Nogueira,967,F,18,Amarelo,Ingles,Particular,6459,amarela,Ensino fundamental completo
+Yango Martins,333,F,78,Pardo,Ingles,Particular,1355,amarela,Ensino fundamental completo
+Marcela Albuquerque,833,F,49,Amarelo,Ingles,Particular,8675,branca,Ensino medio completo
+Sara Macedo,853,M,27,Amarelo,Ingles,Particular,3001,azul,Ensino fundamental completo
+Breno Carvalho,957,F,20,Branco,Ingles,Particular,5646,amarela,Ensino fundamental incompleto
+Suélen Franco,576,M,42,Preto,Ingles,Particular,1655,azul,Ensino superior incompleto
+Esther Oliveira,578,M,49,Amarelo,Ingles,Particular,9409,branca,Ensino medio completo
+Vicente Nogueira,356,M,58,Amarelo,Ingles,Particular,2789,amarela,Ensino superior incompleto
+Roberto Silva,383,F,65,Amarelo,Ingles,Particular,9699,azul,Ensino superior incompleto
+Breno Costa,547,F,55,Branco,Ingles,Particular,8275,branca,Ensino medio incompleto
+Maria Barros,856,M,18,Pardo,Ingles,Particular,5953,azul,Ensino medio incompleto
+Antônio Macedo,573,F,47,Branco,Ingles,Particular,964,amarela,Ensino fundamental incompleto
+Ricardo Franco,429,F,37,Pardo,Ingles,Particular,4599,azul,Ensino medio completo
+Talita Oliveira,368,M,70,Preto,Ingles,Particular,6068,azul,Ensino fundamental completo
+Sílvia Xavier,848,F,23,Amarelo,Ingles,Particular,2569,azul,Ensino fundamental completo
+Fabrício Carvalho,540,M,61,Pardo,Ingles,Particular,1772,azul,Ensino medio completo
+Guilherme Melo,371,M,69,Branco,Ingles,Particular,888,azul,Ensino medio completo
+Júlio Pereira,687,M,68,Pardo,Ingles,Particular,5529,amarela,Ensino medio completo
+Bruna Santos,910,F,47,Branco,Ingles,Particular,5075,amarela,Ensino medio completo
+Rafael Martins,994,F,48,Pardo,Ingles,Particular,9332,azul,Ensino medio incompleto
+Fabrícia Silva,578,F,74,Branco,Ingles,Particular,4109,azul,Ensino medio completo
+Félix Melo,615,F,27,Preto,Ingles,Particular,3645,amarela,Ensino medio incompleto
+Suélen Saraiva,446,M,29,Branco,Ingles,Particular,1965,amarela,Ensino fundamental completo
+Karla Braga,421,M,45,Amarelo,Ingles,Particular,4518,amarela,Ensino medio completo
+Isabel Reis,843,F,25,Branco,Ingles,Particular,7818,amarela,Ensino medio completo
+Gustavo Martins,594,F,75,Preto,Ingles,Particular,3051,branca,Ensino medio completo
+Isabela Franco,531,F,58,Preto,Ingles,Particular,9652,amarela,Ensino superior incompleto
+Núbia Silva,470,F,50,Pardo,Ingles,Particular,2499,azul,Ensino medio completo
+Raul Costa,517,M,74,Amarelo,Ingles,Particular,7008,branca,Ensino medio completo
+Carla Xavier,501,M,29,Branco,Ingles,Particular,6602,amarela,Ensino fundamental incompleto
+Carlos Silva,384,F,33,Amarelo,Ingles,Particular,1192,azul,Ensino medio completo
+Marcos Nogueira,342,M,75,Pardo,Ingles,Particular,4000,branca,Ensino superior incompleto
+Talita Santos,824,F,44,Pardo,Ingles,Particular,1844,branca,Ensino medio incompleto
+Washington Barros,804,M,52,Branco,Ingles,Particular,1376,amarela,Ensino medio incompleto
+Isabela Franco,635,F,51,Amarelo,Ingles,Particular,1830,azul,Ensino fundamental incompleto
+Pedro Pereira,905,M,37,Branco,Ingles,Particular,4229,branca,Ensino superior incompleto
+Feliciano Santos,750,F,28,Pardo,Ingles,Particular,1872,azul,Ensino medio completo
+Hélio Pereira,349,M,34,Preto,Ingles,Particular,5607,branca,Ensino superior incompleto
+Fabrício Braga,484,M,79,Branco,Ingles,Particular,3287,amarela,Ensino fundamental incompleto
+Larissa Silva,447,F,75,Preto,Ingles,Particular,2973,azul,Ensino superior incompleto
+Suélen Costa,443,M,79,Pardo,Ingles,Particular,4658,amarela,Ensino superior incompleto
+Lucas Pereira,920,F,72,Amarelo,Ingles,Particular,9734,amarela,Ensino fundamental completo
+Yango Braga,977,F,48,Pardo,Ingles,Particular,5553,branca,Ensino superior incompleto
+Gustavo Silva,786,F,65,Pardo,Ingles,Particular,4083,amarela,Ensino fundamental completo
+Alexandre Batista,911,F,44,Amarelo,Ingles,Particular,4511,azul,Ensino fundamental incompleto
+Sara Barros,481,F,61,Pardo,Ingles,Particular,9840,amarela,Ensino fundamental incompleto
+Bruna Moraes,530,F,26,Amarelo,Ingles,Particular,8797,branca,Ensino medio completo
+Sílvia Xavier,379,M,61,Preto,Ingles,Particular,8835,amarela,Ensino medio completo
+Janaína Batista,931,M,35,Pardo,Ingles,Particular,7064,amarela,Ensino superior incompleto
+Sílvia Carvalho,437,M,52,Pardo,Ingles,Particular,692,amarela,Ensino fundamental incompleto
+Ricardo Albuquerque,319,M,16,Branco,Ingles,Particular,9344,amarela,Ensino medio incompleto
+Yago Souza,584,M,37,Branco,Ingles,Particular,1082,amarela,Ensino medio incompleto
+Janaína Carvalho,916,F,70,Amarelo,Ingles,Particular,3300,branca,Ensino superior incompleto
+Márcia Reis,410,F,76,Preto,Ingles,Particular,4237,branca,Ensino medio incompleto
+Vitória Souza,810,M,41,Amarelo,Ingles,Particular,6331,amarela,Ensino medio completo
+Roberto Batista,650,M,72,Pardo,Ingles,Particular,6313,amarela,Ensino medio incompleto
+Antônio Souza,405,M,26,Pardo,Ingles,Particular,3454,branca,Ensino fundamental incompleto
+Joana Moraes,675,M,76,Preto,Ingles,Particular,2849,amarela,Ensino medio incompleto
+Larissa Moreira,396,M,51,Preto,Ingles,Particular,4300,branca,Ensino medio completo
+Suélen Costa,310,F,30,Amarelo,Ingles,Particular,1707,amarela,Ensino superior incompleto
+Salvador Albuquerque,462,M,51,Preto,Ingles,Particular,9878,amarela,Ensino medio incompleto
+Júlia Albuquerque,816,M,78,Pardo,Ingles,Particular,4278,azul,Ensino fundamental completo
+Júlia Xavier,307,F,46,Pardo,Ingles,Particular,8894,amarela,Ensino medio incompleto
+Meire Saraiva,951,F,73,Branco,Ingles,Particular,2560,amarela,Ensino medio incompleto
+Gúbio Carvalho,958,F,78,Branco,Ingles,Particular,7927,azul,Ensino superior incompleto
+Eduardo Nogueira,861,F,52,Preto,Ingles,Particular,1881,amarela,Ensino medio completo
+Lorena Oliveira,596,F,31,Branco,Ingles,Particular,6395,amarela,Ensino medio incompleto
+Fabrício Oliveira,669,F,36,Branco,Ingles,Particular,823,azul,Ensino fundamental incompleto
+Margarida Batista,565,M,61,Amarelo,Ingles,Particular,3241,amarela,Ensino fundamental incompleto
+Eduarda Franco,960,F,69,Branco,Ingles,Particular,8746,branca,Ensino medio completo
+Pedro Souza,506,M,50,Branco,Ingles,Particular,8091,amarela,Ensino fundamental completo
+Carlos Albuquerque,726,F,61,Pardo,Ingles,Particular,4282,branca,Ensino medio incompleto
+Marli Batista,354,F,20,Branco,Ingles,Particular,4829,branca,Ensino medio completo
+Janaína Silva,829,F,15,Pardo,Ingles,Particular,9024,branca,Ensino superior incompleto
+Carla Franco,666,M,67,Amarelo,Ingles,Particular,5448,branca,Ensino medio incompleto
+Paula Moraes,530,F,57,Preto,Ingles,Particular,8897,branca,Ensino medio incompleto
+Mércia Franco,771,M,52,Pardo,Ingles,Particular,8887,amarela,Ensino fundamental incompleto
+Roberta Oliveira,540,M,17,Pardo,Ingles,Particular,3856,branca,Ensino superior incompleto
+Meire Albuquerque,800,F,17,Amarelo,Ingles,Particular,2211,amarela,Ensino medio completo
+Márcia Reis,391,F,18,Branco,Ingles,Particular,3275,amarela,Ensino superior incompleto
+César Oliveira,486,M,71,Preto,Ingles,Particular,7817,amarela,Ensino superior incompleto
+Talita Oliveira,684,F,78,Pardo,Ingles,Particular,6674,amarela,Ensino medio completo
+Sirineu Silva,588,M,20,Amarelo,Ingles,Particular,4749,branca,Ensino superior incompleto
+Vicente Reis,374,M,56,Branco,Ingles,Particular,1179,amarela,Ensino fundamental incompleto
+Silas Costa,308,F,69,Pardo,Ingles,Particular,3943,azul,Ensino medio completo
+Víctor Souza,786,F,69,Pardo,Ingles,Particular,8914,branca,Ensino medio completo
+Pedro Costa,813,F,24,Pardo,Ingles,Particular,3556,azul,Ensino fundamental completo
+Roberta Nogueira,552,F,60,Amarelo,Ingles,Particular,853,azul,Ensino fundamental incompleto
+Salvador Barros,946,M,25,Branco,Ingles,Particular,1881,branca,Ensino fundamental completo
+Hélio Silva,365,F,15,Pardo,Ingles,Particular,1631,azul,Ensino fundamental incompleto
+Roberto Costa,981,F,65,Branco,Ingles,Particular,3805,amarela,Ensino medio incompleto
+Natália Silva,342,M,58,Preto,Ingles,Particular,7439,branca,Ensino fundamental completo
+João Pereira,678,F,27,Amarelo,Ingles,Particular,807,amarela,Ensino medio incompleto
