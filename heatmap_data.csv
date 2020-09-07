@@ -1,101 +1,101 @@
-nome,value,idade
-Isabela Franco,621,21
-Silas Melo,839,35
-Breno Carvalho,411,76
-Eduardo Franco,697,72
-Alessandro Carvalho,688,46
-Vicente Batista,539,79
-Salvador Braga,832,29
-Lucas Nogueira,967,18
-Yango Martins,333,78
-Marcela Albuquerque,833,49
-Sara Macedo,853,27
-Breno Carvalho,957,20
-Suélen Franco,576,42
-Esther Oliveira,578,49
-Vicente Nogueira,356,58
-Roberto Silva,383,65
-Breno Costa,547,55
-Maria Barros,856,18
-Antônio Macedo,573,47
-Ricardo Franco,429,37
-Talita Oliveira,368,70
-Sílvia Xavier,848,23
-Fabrício Carvalho,540,61
-Guilherme Melo,371,69
-Júlio Pereira,687,68
-Bruna Santos,910,47
-Rafael Martins,994,48
-Fabrícia Silva,578,74
-Félix Melo,615,27
-Suélen Saraiva,446,29
-Karla Braga,421,45
-Isabel Reis,843,25
-Gustavo Martins,594,75
-Isabela Franco,531,58
-Núbia Silva,470,50
-Raul Costa,517,74
-Carla Xavier,501,29
-Carlos Silva,384,33
-Marcos Nogueira,342,75
-Talita Santos,824,44
-Washington Barros,804,52
-Isabela Franco,635,51
-Pedro Pereira,905,37
-Feliciano Santos,750,28
-Hélio Pereira,349,34
-Fabrício Braga,484,79
-Larissa Silva,447,75
-Suélen Costa,443,79
-Lucas Pereira,920,72
-Yango Braga,977,48
-Gustavo Silva,786,65
-Alexandre Batista,911,44
-Sara Barros,481,61
-Bruna Moraes,530,26
-Sílvia Xavier,379,61
-Janaína Batista,931,35
-Sílvia Carvalho,437,52
-Ricardo Albuquerque,319,16
-Yago Souza,584,37
-Janaína Carvalho,916,70
-Márcia Reis,410,76
-Vitória Souza,810,41
-Roberto Batista,650,72
-Antônio Souza,405,26
-Joana Moraes,675,76
-Larissa Moreira,396,51
-Suélen Costa,310,30
-Salvador Albuquerque,462,51
-Júlia Albuquerque,816,78
-Júlia Xavier,307,46
-Meire Saraiva,951,73
-Gúbio Carvalho,958,78
-Eduardo Nogueira,861,52
-Lorena Oliveira,596,31
-Fabrício Oliveira,669,36
-Margarida Batista,565,61
-Eduarda Franco,960,69
-Pedro Souza,506,50
-Carlos Albuquerque,726,61
-Marli Batista,354,20
-Janaína Silva,829,15
-Carla Franco,666,67
-Paula Moraes,530,57
-Mércia Franco,771,52
-Roberta Oliveira,540,17
-Meire Albuquerque,800,17
-Márcia Reis,391,18
-César Oliveira,486,71
-Talita Oliveira,684,78
-Sirineu Silva,588,20
-Vicente Reis,374,56
-Silas Costa,308,69
-Víctor Souza,786,69
-Pedro Costa,813,24
-Roberta Nogueira,552,60
-Salvador Barros,946,25
-Hélio Silva,365,15
-Roberto Costa,981,65
-Natália Silva,342,58
-João Pereira,678,27
+group,variable,value
+A,v1,30
+A,v2,95
+A,v3,22
+A,v4,14
+A,v5,59
+A,v6,52
+A,v7,88
+A,v8,20
+A,v9,99
+A,v10,66
+B,v1,37
+B,v2,50
+B,v3,81
+B,v4,79
+B,v5,84
+B,v6,91
+B,v7,82
+B,v8,89
+B,v9,6
+B,v10,67
+C,v1,96
+C,v2,13
+C,v3,98
+C,v4,10
+C,v5,86
+C,v6,23
+C,v7,74
+C,v8,47
+C,v9,73
+C,v10,40
+D,v1,75
+D,v2,18
+D,v3,92
+D,v4,43
+D,v5,16
+D,v6,27
+D,v7,76
+D,v8,24
+D,v9,1
+D,v10,87
+E,v1,44
+E,v2,29
+E,v3,58
+E,v4,55
+E,v5,65
+E,v6,56
+E,v7,9
+E,v8,78
+E,v9,49
+E,v10,36
+F,v1,35
+F,v2,80
+F,v3,8
+F,v4,46
+F,v5,48
+F,v6,100
+F,v7,17
+F,v8,41
+F,v9,33
+F,v10,11
+G,v1,77
+G,v2,62
+G,v3,94
+G,v4,15
+G,v5,69
+G,v6,63
+G,v7,61
+G,v8,54
+G,v9,38
+G,v10,93
+H,v1,39
+H,v2,26
+H,v3,90
+H,v4,83
+H,v5,31
+H,v6,2
+H,v7,51
+H,v8,28
+H,v9,42
+H,v10,7
+I,v1,5
+I,v2,60
+I,v3,21
+I,v4,25
+I,v5,3
+I,v6,70
+I,v7,34
+I,v8,68
+I,v9,57
+I,v10,32
+J,v1,19
+J,v2,85
+J,v3,53
+J,v4,45
+J,v5,71
+J,v6,64
+J,v7,4
+J,v8,12
+J,v9,97
+J,v10,72
