@@ -8,7 +8,7 @@ Ana,filosofia,52
 Ana,inglês,88
 Ana,geografia,20
 Ana,história,99
-Ana,educação física,66
+Ana,gênero,17
 Bia,língua portuguesa,37
 Bia,matemática,50
 Bia,biologia,81
@@ -18,7 +18,7 @@ Bia,filosofia,91
 Bia,inglês,82
 Bia,geografia,89
 Bia,história,6
-Bia,educação física,67
+Bia,gênero,17
 Carlos,língua portuguesa,96
 Carlos,matemática,13
 Carlos,biologia,98
@@ -28,7 +28,7 @@ Carlos,filosofia,23
 Carlos,inglês,74
 Carlos,geografia,47
 Carlos,história,73
-Carlos,educação física,40
+Carlos,gênero,87
 Daniel,língua portuguesa,75
 Daniel,matemática,18
 Daniel,biologia,92
@@ -38,7 +38,7 @@ Daniel,filosofia,27
 Daniel,inglês,76
 Daniel,geografia,24
 Daniel,história,1
-Daniel,educação física,87
+Daniel,gênero,87
 Elisa,língua portuguesa,44
 Elisa,matemática,29
 Elisa,biologia,58
@@ -48,7 +48,7 @@ Elisa,filosofia,56
 Elisa,inglês,9
 Elisa,geografia,78
 Elisa,história,49
-Elisa,educação física,36
+Elisa,gênero,17
 Felipe,língua portuguesa,35
 Felipe,matemática,80
 Felipe,biologia,8
@@ -58,7 +58,7 @@ Felipe,filosofia,100
 Felipe,inglês,17
 Felipe,geografia,41
 Felipe,história,33
-Felipe,educação física,11
+Felipe,gênero,87
 Geni,língua portuguesa,77
 Geni,matemática,62
 Geni,biologia,94
@@ -68,7 +68,7 @@ Geni,filosofia,63
 Geni,inglês,61
 Geni,geografia,54
 Geni,história,38
-Geni,educação física,93
+Geni,gênero,17
 Helio,língua portuguesa,39
 Helio,matemática,26
 Helio,biologia,90
@@ -78,7 +78,7 @@ Helio,filosofia,2
 Helio,inglês,51
 Helio,geografia,28
 Helio,história,42
-Helio,educação física,7
+Helio,gênero,87
 Isa,língua portuguesa,5
 Isa,matemática,60
 Isa,biologia,21
@@ -88,7 +88,7 @@ Isa,filosofia,70
 Isa,inglês,34
 Isa,geografia,68
 Isa,história,57
-Isa,educação física,32
+Isa,gênero,17
 Jonas,língua portuguesa,19
 Jonas,matemática,85
 Jonas,biologia,53
@@ -98,4 +98,4 @@ Jonas,filosofia,64
 Jonas,inglês,4
 Jonas,geografia,12
 Jonas,história,97
-Jonas,educação física,72
+Jonas,gênero,87
