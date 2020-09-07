@@ -1,101 +1,101 @@
 group,variable,value
-Ana,v1,30
-Ana,v2,95
-Ana,v3,22
-Ana,v4,14
-Ana,v5,59
-Ana,v6,52
-Ana,v7,88
-Ana,v8,20
-Ana,v9,99
-Ana,v10,66
-Bia,v1,37
-Bia,v2,50
-Bia,v3,81
-Bia,v4,79
-Bia,v5,84
-Bia,v6,91
-Bia,v7,82
-Bia,v8,89
-Bia,v9,6
-Bia,v10,67
-Carlos,v1,96
-Carlos,v2,13
-Carlos,v3,98
-Carlos,v4,10
-Carlos,v5,86
-Carlos,v6,23
-Carlos,v7,74
-Carlos,v8,47
-Carlos,v9,73
-Carlos,v10,40
-Daniel,v1,75
-Daniel,v2,18
-Daniel,v3,92
-Daniel,v4,43
-Daniel,v5,16
-Daniel,v6,27
-Daniel,v7,76
-Daniel,v8,24
-Daniel,v9,1
-Daniel,v10,87
-Elisa,v1,44
-Elisa,v2,29
-Elisa,v3,58
-Elisa,v4,55
-Elisa,v5,65
-Elisa,v6,56
-Elisa,v7,9
-Elisa,v8,78
-Elisa,v9,49
-Elisa,v10,36
-Felipe,v1,35
-Felipe,v2,80
-Felipe,v3,8
-Felipe,v4,46
-Felipe,v5,48
-Felipe,v6,100
-Felipe,v7,17
-Felipe,v8,41
-Felipe,v9,33
-Felipe,v10,11
-Geni,v1,77
-Geni,v2,62
-Geni,v3,94
-Geni,v4,15
-Geni,v5,69
-Geni,v6,63
-Geni,v7,61
-Geni,v8,54
-Geni,v9,38
-Geni,v10,93
-Helio,v1,39
-Helio,v2,26
-Helio,v3,90
-Helio,v4,83
-Helio,v5,31
-Helio,v6,2
-Helio,v7,51
-Helio,v8,28
-Helio,v9,42
-Helio,v10,7
-Isa,v1,5
-Isa,v2,60
-Isa,v3,21
-Isa,v4,25
-Isa,v5,3
-Isa,v6,70
-Isa,v7,34
-Isa,v8,68
-Isa,v9,57
-Isa,v10,32
-Jonas,v1,19
-Jonas,v2,85
-Jonas,v3,53
-Jonas,v4,45
-Jonas,v5,71
-Jonas,v6,64
-Jonas,v7,4
-Jonas,v8,12
-Jonas,v9,97
-Jonas,v10,72
+Ana,língua portuguesa,30
+Ana,matemática,95
+Ana,biologia,22
+Ana,física,14
+Ana,química,59
+Ana,filosofia,52
+Ana,inglês,88
+Ana,geografia,20
+Ana,história,99
+Ana,educação física,66
+Bia,língua portuguesa,37
+Bia,matemática,50
+Bia,biologia,81
+Bia,física,79
+Bia,química,84
+Bia,filosofia,91
+Bia,inglês,82
+Bia,geografia,89
+Bia,história,6
+Bia,educação física,67
+Carlos,língua portuguesa,96
+Carlos,matemática,13
+Carlos,biologia,98
+Carlos,física,10
+Carlos,química,86
+Carlos,filosofia,23
+Carlos,inglês,74
+Carlos,geografia,47
+Carlos,história,73
+Carlos,educação física,40
+Daniel,língua portuguesa,75
+Daniel,matemática,18
+Daniel,biologia,92
+Daniel,física,43
+Daniel,química,16
+Daniel,filosofia,27
+Daniel,inglês,76
+Daniel,geografia,24
+Daniel,história,1
+Daniel,educação física,87
+Elisa,língua portuguesa,44
+Elisa,matemática,29
+Elisa,biologia,58
+Elisa,física,55
+Elisa,química,65
+Elisa,filosofia,56
+Elisa,inglês,9
+Elisa,geografia,78
+Elisa,história,49
+Elisa,educação física,36
+Felipe,língua portuguesa,35
+Felipe,matemática,80
+Felipe,biologia,8
+Felipe,física,46
+Felipe,química,48
+Felipe,filosofia,100
+Felipe,inglês,17
+Felipe,geografia,41
+Felipe,história,33
+Felipe,educação física,11
+Geni,língua portuguesa,77
+Geni,matemática,62
+Geni,biologia,94
+Geni,física,15
+Geni,química,69
+Geni,filosofia,63
+Geni,inglês,61
+Geni,geografia,54
+Geni,história,38
+Geni,educação física,93
+Helio,língua portuguesa,39
+Helio,matemática,26
+Helio,biologia,90
+Helio,física,83
+Helio,química,31
+Helio,filosofia,2
+Helio,inglês,51
+Helio,geografia,28
+Helio,história,42
+Helio,educação física,7
+Isa,língua portuguesa,5
+Isa,matemática,60
+Isa,biologia,21
+Isa,física,25
+Isa,química,3
+Isa,filosofia,70
+Isa,inglês,34
+Isa,geografia,68
+Isa,história,57
+Isa,educação física,32
+Jonas,língua portuguesa,19
+Jonas,matemática,85
+Jonas,biologia,53
+Jonas,física,45
+Jonas,química,71
+Jonas,filosofia,64
+Jonas,inglês,4
+Jonas,geografia,12
+Jonas,história,97
+Jonas,educação física,72
